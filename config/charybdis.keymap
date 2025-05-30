@@ -205,7 +205,7 @@
 &none    &none   &kp HOME      &kp UP        &kp END        &kp INSERT    &kp PAGE_UP      &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &none         &none
 &none    &none   &kp LEFT      &kp DOWN      &kp RIGHT      &kp ENTER     &kp PAGE_DOWN    &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp NUMBER_0  &none
 &none    &none   &kp LC(LEFT)  &kp CAPSLOCK  &kp LC(RIGHT)  &kp DELETE    &kp PRINTSCREEN  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &none         &none
-                               &trans        &trans         &trans        &trans           &trans
+                               &kp DELETE    &trans         &trans        &trans           &trans
                                              &mo 3          &trans        &trans
             >;
         };
